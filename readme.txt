@@ -7,4 +7,5 @@ Realice una adaptación de la solución del MAP OF SCIENCE, se requiere dos adap
 *  Realizar el minado de autores por país (en el ejemplo se encuentra realizado por las ciudades de USA).
 
 Para asignar las ubicación geográfica de los centroides de cada país (latitud y longitud), utilice la tabla ubicación Geográfica de Países - Google Developer. 
-Así como en la solución de referencia se señalan varias ciudades seleccionadas de USA, en su resolución señale/resalte a los siguientes países: USA, UK, Brazil, China, Australia, Norway.  
+Así como en la solución de referencia se señalan varias ciudades seleccionadas de USA, en su resolución señale/resalte a los siguientes países:
+USA, UK, Brazil, China, Australia, Norway.  
