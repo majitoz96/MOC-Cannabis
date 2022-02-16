@@ -1,8 +1,7 @@
 # Mapa de Ciencia
 
 Basado en las sesiones de Visualización de datos y Expresiones resulares. 
-Realice una adaptación de la solución del MAP OF SCIENCE. 
-Se requiere dos adaptaciones para resolver esta actividad:
+Realice una adaptación de la solución del MAP OF SCIENCE, se requiere dos adaptaciones para resolver esta actividad:
 
 *  Buscar bibliografía de un tema de interés propio en la Página Web de PubMed,
 *  Realizar el minado de autores por país (en el ejemplo se encuentra realizado por las ciudades de USA).
